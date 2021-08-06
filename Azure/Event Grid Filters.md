@@ -1,4 +1,4 @@
-# Storgae Filters
+# Storagae Filters
 
 
 https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-event-overview
